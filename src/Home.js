@@ -58,7 +58,7 @@ const App = props => {
               height: 250,
               width: '100%',
               marginLeft: 40,
-              marginTop: -40,
+              marginTop: -41,
             }}>
             <Image
               source={item.image2}
